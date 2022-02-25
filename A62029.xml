@@ -1,0 +1,281 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The swearing-master, or, A conference between two country-fellows concerning the times</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62029</idno>
+            <idno type="STC">Wing S6244</idno>
+            <idno type="STC">ESTC R76</idno>
+            <idno type="EEBO-CITATION">11940677</idno>
+            <idno type="OCLC">ocm 11940677</idno>
+            <idno type="VID">51265</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62029)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51265)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 516:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The swearing-master, or, A conference between two country-fellows concerning the times</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for N.T.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1681]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="dialogue">
+            <pb n="1" facs="tcp:51265:1" rendition="simple:additions"/>
+            <head>THE <hi>Swearing-Maſter:</hi> OR, A CONFERENCE Between two Country-Fellows Concerning the TIMES.</head>
+            <stage>
+               <hi>NED.</hi> and <hi>WIL.</hi>
+            </stage>
+            <sp>
+               <speaker>Ned.</speaker>
+               <p>COme <hi>Wil.</hi> unſtring, and pay your Groat, for I am confident thou waſt fuddl'd laſt night, thou look'ſt ſo thin and ſmall-beeriſh this morning.</p>
+            </sp>
+            <sp>
+               <speaker>Wil.</speaker>
+               <p>
+                  <hi>Fuddl'd quoth'a, I would that were the worſt on't <hi>Ned,</hi> for then a Nap might do ones buſineſs, and ſet a body to rights again; But I tell thee my Head's broke, my Brains are ſplit, I am diſtracted, and my ſenſes are all turn'd wrong ſide outwards; and all this with the dreadful Image and Reflection of yeſternights talk.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ned.</speaker>
+               <p>What, I warrant you drank <hi>Brandy</hi> laſt night, with the two Gentlemen that 'lighted at <hi>Beſs</hi>'s juſt as I went away.</p>
+            </sp>
+            <sp>
+               <speaker>Wil.</speaker>
+               <p>
+                  <hi>That's all nothing; But the talk, the talk that I had with them was enough to have made all the wiſe men of <hi>Greece</hi> ſtark mad. I did but only dream of it in the night, (which you know I could not help) and me<g ref="char:EOLhyphen"/>thought the Devil had like to have taken me napping, and carried me ſheer away.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ned.</speaker>
+               <p>Prithee, honeſt <hi>Wil.</hi> what could that be?</p>
+            </sp>
+            <sp>
+               <speaker>Wil.</speaker>
+               <p>
+                  <hi>Hold a blow there Mr. <hi>Edward;</hi> for, to tell you the truth, the Gen<g ref="char:EOLhyphen"/>tlemen have <hi>ſworn</hi> me to ſecrecy, and I would have you know I ſcorn to <hi>for<g ref="char:EOLhyphen"/>ſwear</hi> my ſelf.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb n="2" facs="tcp:51265:2"/>
+               <speaker>Ned.</speaker>
+               <p>Piſh, man, art thou no forwarder in the knowledge of this pre<g ref="char:EOLhyphen"/>ſent world, than to talk of <hi>forſwearing</hi> thy ſelf? That's no ſin ſure; or at leaſt, every body does not believe it is.</p>
+            </sp>
+            <sp>
+               <speaker>Wil.</speaker>
+               <p>
+                  <hi>By my troth thou talk'ſt ſo like one of their Diſciples, that, if thou wilt <hi>ſwear</hi> ſecrecy to me again, I'le e'en tell thee all our Converſation; for in good earnest it lies ſo heavy upon my ſtomack, that I would give all the world to be eas'd on't.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ned.</speaker>
+               <p>I <hi>ſwear</hi> then (look this way) by all that's contain'd in the round world, and twenty thouſand miles beyond it, That I'le be as ſe<g ref="char:EOLhyphen"/>creat as a deed of darkneſs; except I ſhould chance to light o' ſome body that will <hi>ſwear</hi> ſecrecy to me again, and to ſuch a one you know I may tell it, let it be what it will under <hi>TREASON.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Wil.</speaker>
+               <p>
+                  <hi>Very good; I ſee how it will be; The Gentlemen they have told me ſomething under and <hi>Oath</hi> of ſecrecy; I ſhall tell it thee upon the ſame terms; thou ſhalt tell it a third; that third ſhall tell it to three thouſand, and ſo on to the end of the Chapter, till every body know it, through every bo<g ref="char:EOLhyphen"/>dies</hi> Perjury.</p>
+            </sp>
+            <sp>
+               <speaker>Ned.</speaker>
+               <p>Alaſs, alaſs! <hi>Wil.</hi> if <hi>Perjury</hi> be a ſin, how many men do you and I know, (and ſome of very good faſhion too) that will ſmoak for't in the Devils Kitchin. But prithee be ſudden, and tell me what is this mighty ſecret?</p>
+            </sp>
+            <sp>
+               <speaker>Wil.</speaker>
+               <p>
+                  <hi>Why I'le tell thee then; That Fellow which thou ſaw'ſt there in the Velvet-Cap, that look'd ſo like my Landlord, is a <hi>Swearing-Maſter,</hi> and that other tall lean <hi>Janizary</hi> with the Whiskers that was with him, is his <hi>Uſher,</hi> and they are come down into our Country here to ſet up a <hi>Swearing-School.</hi>
+                  </hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ned.</speaker>
+               <p>A <hi>Swearing-School</hi> ſaiſt thou? And what doſt thou think Juſtice <hi>Bruſhum</hi> (God bleſs his Worſhip) will ſay to that? ha?</p>
+            </sp>
+            <sp>
+               <speaker>Wil.</speaker>
+               <p>
+                  <hi>Away you Fool, thou doſt not underſtand right. All the Scholars at their admiſſion muſt <hi>ſwear</hi> ſecrecy, and then there's no danger. But if any leaky Fellow (like thee or me) ſhould chance to diſcover all, the <hi>Maſter</hi> has a beyond-ſea-Patent to ſhew for't, from—let me ſee— <hi>Sancha Pancha</hi> I think they call the place; and he has a Friend of a certain <hi>Doctor</hi>here in <hi>England,</hi> Dr. <hi>Caſe</hi> I think his Name is, and a whole <hi>Grand-Jury</hi> of a mattet of nineteen <hi>good</hi> men and <hi>true</hi> beſides.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ned.</speaker>
+               <p>Hang 'em, they'l do no good on't here in the Country; they were better e'en go back again to <hi>London,</hi> and there they may fairly put out Printed-bills of their Myſtery: But what do ſuch clumſie Bum<g ref="char:EOLhyphen"/>kinly Fellows as thou are I care for <hi>ſwearing,</hi> except it be at the Ale<g ref="char:EOLhyphen"/>houſe, or at the Sizes? and then we can do it without the help of a <hi>Maſter.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Wil.</speaker>
+               <p>
+                  <hi>Back again to <hi>London,</hi> ſaiſt thou? That will never do, for a trick that I heard them telling yeſternight, till the next <hi>P—.</hi>
+                  </hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ned.</speaker>
+               <p>Sweet <hi>William,</hi> what trick was that?</p>
+            </sp>
+            <sp>
+               <speaker>Wil.</speaker>
+               <p>
+                  <hi>Why, you muſt know, <hi>Ned,</hi> that as the tranſporting of <hi>Iriſh-</hi>Cattel ſpoil'd the Trade of <hi>England,</hi> and was voted a Nuſance, ſo the tranſporting
+<pb n="3" facs="tcp:51265:2"/>of <hi>Iriſh-</hi> Witneſſes has been the very ruin and breaking of a great many <hi>Eng<g ref="char:EOLhyphen"/>liſh Oath-breakers,</hi> who (poor Rogues) can ſcarce make own and own at years end, the <hi>Bogg-trotters</hi> do ſo under-ſell them: But they ſaid, they hop'd that the next <hi>P—</hi> would prefer a Bill againſt them, as well as that not long ſince did against their Cattel.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ned.</speaker>
+               <p>But prithee what would this <hi>Swearing-Maſter</hi> be at? When a Scholar has ſpent a great deal of Money and Pains in learning to <hi>Swear</hi> and <hi>Forſwear,</hi> how ſhall he do, I ſay, (when he comes to underſtand his Trade perfectly) to ſet up for himſelf, and get a Livelihood by it?</p>
+            </sp>
+            <sp>
+               <speaker>Wil.</speaker>
+               <p>
+                  <hi>Why to that he anſwers thus, and methinks very modestly, That, to ſay the Truth, indeed the Trade is not ſo good as it was when it came firſt up, by a great matter in the week; but that it is ſtill ſuch, that a good Husband may make an honeſt ſhift to live on't.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ned.</speaker>
+               <p>Ay, but I have heard that there are a great many of thoſe poor <hi>Iriſh,</hi> and ſome of the <hi>Engliſh</hi> too, of that Profeſſion, that have made ſaid complaints of Poverty, that have been readier to <hi>Curſe</hi> than <hi>Swear,</hi> and wiſh'd with all their hearts they had been bound to ſome other Trades.</p>
+            </sp>
+            <sp>
+               <speaker>Wil.</speaker>
+               <p>
+                  <hi>Piſh! Doſt not thou hear all ſorts of Trades-men crying out conti<g ref="char:EOLhyphen"/>nually of bad Times and dead Trading? That's all but a meer face and juggle to diſcourage other undertakers; But if there were nothing to be got by <hi>Evidencing,</hi> why ſhould there be ſo much projecting and endeavouring to get into the imployment? Nay, I'le tell thee, (for a matter of three or four hundred good ſubstantial What-d'ye-lacks that have ſhut up Shop within theſe three years) I can remember but one of theſe Fellows that has miſcarried, (and they ſay 'twas his own fault too,) and that was one <hi>Fitz what-d'ye-call him;</hi> and he, poor Rogue, was hiſs'd off the Stage I know not how, unpi<g ref="char:EOLhyphen"/>tied, and forſaken by every body alive, but his Wife and <hi>John Ketch.</hi>
+                  </hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ned.</speaker>
+               <p>Yes, I can tell thee of another; and that was our Country-man, that went to ſet up at <hi>Bruſſels:</hi> I have forgot his Name; but I remem<g ref="char:EOLhyphen"/>ber people ſaid he was Nephew to the <hi>Quaker</hi> that went to <hi>Rome</hi> to con<g ref="char:EOLhyphen"/>vert the <hi>Pope.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Wil.</speaker>
+               <p>
+                  <hi>Why prithee what of him?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ned.</speaker>
+               <p>He went to the Governour of the <hi>Spaniſh-Netherlands,</hi> you muſt know, with his mouth-full of a fine ſtory of a <hi>Plot,</hi> a <hi>Deſign,</hi> an <hi>Intrigue,</hi> a <hi>Conſult,</hi> and God knows what, of ſubverting the Government; but the Iſſue of his brain was ſo tender and delicate, that all the <hi>Plotters</hi> and <hi>Counter-plotters</hi> in <hi>England</hi> could never have kept it alive in that Air. Ill luck he had to be found out in it; and ſo was broken (as they ſay) upon the Wheel of Fortune.</p>
+            </sp>
+            <sp>
+               <speaker>Wil.</speaker>
+               <p>
+                  <hi>I marry Sir, this comes of gadding abroad; had he ſtaid, and made the beſt uſe of his Talent at home, he might (for ought I know) have been alive, and live-like at this day. But, poor ſhallow-brain'd Raſcal, he never remember'd that all Plants do not grow in all Countries; And that, though they ſend us now and then a Croſs-biter from beyond Sea, yet they'l be hang'd before they'l take any of ours. <hi>England, England</hi> is the only dear place for
+<pb n="4" facs="tcp:51265:3"/>propagating of Lies, and Shams, and Plots, and Cheats; The Infidels of the Continent, I warrant you, they laugh ſmoothly at our Fears, and can make themſelves ſport enough to ſee us Iſlanders damn'd for having too much Faith.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ned.</speaker>
+               <p>But prithee <hi>Wil.</hi> tell me now, what wou'dſt thou have a body do? Suppoſe now that <hi>Lazarello</hi> of <hi>Tormes</hi> and the Knight of the Ora<g ref="char:EOLhyphen"/>cle ſhould take their Corpulent <hi>Oaths</hi> before Mr. <hi>Bruſhum,</hi> That ſeven Pilgrims in Buckram, with every one a brown Bill in his Pocket, knock'd thee (or ſay me) i'th' head yeſter-evening, about ſix a clock, (or ſay between ſix and ſeven, to be ſure,) ſhould either thou or I (think'ſt thou) be ſuch wicked profligate Unbelievers, as to give no Credit to the <hi>Evi<g ref="char:EOLhyphen"/>dence,</hi> eſpecially ſince in ſuch Caſes (as Gaffer <hi>Whisker</hi> the Conſtable tells us) they ſwear for the King? For my part I know what I think, and I know what I ſhould think: But yet (you may imagine if you pleaſe) there are thoſe in <hi>England,</hi> that would believe (juſt as they do the Go<g ref="char:EOLhyphen"/>ſpel) that what was ſworn muſt needs be truth; That they were really (according to the Depoſition or Narrative) kill'd at ſuch or ſuch a time; and that now, for all their walking, and talking, and drinking, and thinking, they are but meer Ghoſts and Spectres, God bleſs us!</p>
+            </sp>
+            <sp>
+               <speaker>Wil.</speaker>
+               <p>
+                  <hi>Well, now I'le tell thee in ſuch a caſe what I would do; I would turn my back exactly to the <hi>Evidence,</hi> and looking 'em full in the faces over my left ſhoulder, I would tell 'em they ly'd in their throats; that they were Pimps, and Rogues, and had been brought up at the <hi>Swearing-School,</hi> though they were the best <hi>Tormes's</hi> and <hi>Oracles</hi> in the Nation.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ned.</speaker>
+               <p>Why at this rate, though every body be free to <hi>ſwear,</hi> you wou'd have every body free to believe as they pleas'd, would you not?</p>
+            </sp>
+            <sp>
+               <speaker>Wil.</speaker>
+               <p>
+                  <hi>Ay that I wou'd in ſober ſadneſs; for in my mind 'tis as plain as the Noſe upon a mans Face, that <hi>ſwearing Knaves</hi> make believing Fools, and that believing Fools make <hi>ſwearing Knaves;</hi> and God knows when we ſhall have an end of this Circle.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Ned.</speaker>
+               <p>Now, <hi>Wil.</hi> methinks thou haſt ſpoken gravely, and like a Phyloſopher, and if we had a Pen and Ink here, I would ſubſcribe what thou haſt ſaid; and there's an end.</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>N. T.</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
